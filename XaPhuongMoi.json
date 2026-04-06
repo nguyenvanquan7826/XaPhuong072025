@@ -46771,9 +46771,7 @@
                         "provinceName": "Bắc Giang",
                         "provinceLevel": "Tỉnh",
                         "provinceId": "24"
-                    },
-                    null,
-                    null
+                    }
                 ]
             },
             {
@@ -49131,7 +49129,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "24"
                     },
-                    null,
                     {
                         "communeFullName": "Xã Quỳnh Sơn",
                         "communeName": "Quỳnh Sơn",
@@ -87497,7 +87494,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "38"
                     },
-                    null,
                     {
                         "communeFullName": "Xã Tân Châu",
                         "communeName": "Tân Châu",
@@ -90052,7 +90048,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "38"
                     },
-                    null,
                     {
                         "communeFullName": "Xã Đông Hòa",
                         "communeName": "Đông Hòa",
@@ -101003,7 +100998,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "42"
                     },
-                    null,
                     {
                         "communeFullName": "Thị trấn Lộc Hà",
                         "communeName": "Lộc Hà",
@@ -109329,7 +109323,6 @@
                         "provinceLevel": "Thành phố",
                         "provinceId": "46"
                     },
-                    null,
                     {
                         "communeFullName": "Xã Hương Xuân",
                         "communeName": "Hương Xuân",
@@ -112449,7 +112442,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "49"
                     },
-                    null,
                     {
                         "communeFullName": "Xã Quế Lâm",
                         "communeName": "Quế Lâm",
@@ -140693,7 +140685,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "68"
                     },
-                    null,
                     {
                         "communeFullName": "Xã Hà Lâm",
                         "communeName": "Hà Lâm",
@@ -140917,9 +140908,6 @@
                         "provinceLevel": "Tỉnh",
                         "provinceId": "68"
                     },
-                    null,
-                    null,
-                    null,
                     {
                         "communeFullName": "Xã Quảng Ngãi",
                         "communeName": "Quảng Ngãi",
